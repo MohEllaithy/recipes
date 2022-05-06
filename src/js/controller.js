@@ -84,6 +84,5 @@ const init = function () {
   searchView.addHandlerSearch(constrolSerachResult);
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
-  console.log('Helllo Again');
 };
 init();
